@@ -22,7 +22,7 @@ System Environment:
 ## 2 Architectural Design
 
 ### 2.1 Component Diagram  
-![Component Diagram](/GroupProject/Docs/images/ComponentDiagram-Page1.jpeg)
+![Component Diagram](/images/ComponentDiagram-Page1.jpeg)
 
 ### 2.2 Deployment Diagram
 The app deployment will be simply for Android 4.4+ systems, we do not need deployment diagram to deploy or interact in other systems.
@@ -30,7 +30,7 @@ The app deployment will be simply for Android 4.4+ systems, we do not need deplo
 ## 3 Low-Level Design
 
 ### 3.1 Class Diagram
-![Class Diagram](/GroupProject/Docs/images/class_diagram.png)
+![Class Diagram](/images/class_diagram.png)
 
 ### 3.2 Other Diagrams
 
@@ -38,14 +38,14 @@ The app deployment will be simply for Android 4.4+ systems, we do not need deplo
 The user interface will be a touch-enabled GUI interface. It will be a drawer navigation (“Main Menu”) with each main menu (Create New Player, LogIn) as a group of activities. When New Player is selected, a interface of new player will be prompted. Upon LogIn, a drawer navigation with New Scramble, In-progress Scramble, User Statistics will be shown for user selection. During interacting with EWS, an progress bar can be shown during infomation retrieval from EWS.
 
 1. Home Page  
-![Home Page](/GroupProject/Docs/images/HomePage.jpeg)
+![Home Page](/images/HomePage.jpeg)
 2. Register  
-![Register](/GroupProject/Docs/images/RegisterPage.jpeg)
+![Register](/images/RegisterPage.jpeg)
 3. Login  
-![LogIn](/GroupProject/Docs/images/LogIn.jpeg)
+![LogIn](/images/LogIn.jpeg)
 4. Main Menu  
-![Main Menu](/GroupProject/Docs/images/MainMenu.jpeg)
+![Main Menu](/images/MainMenu.jpeg)
 5. Create Scramble  
-![Create Scramble](/GroupProject/Docs/images/CreateScramble.jpeg)
+![Create Scramble](/images/CreateScramble.jpeg)
 6. Find Word Scrambles  
-![Find Scrambles](/GroupProject/Docs/images/FindScrambles.jpeg)
+![Find Scrambles](/images/FindScrambles.jpeg)
