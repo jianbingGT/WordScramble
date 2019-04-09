@@ -22,7 +22,7 @@ System Environment:
 ## 2 Architectural Design
 
 ### 2.1 Component Diagram  
-![Component Diagram](/images/ComponentDiagram-Page1.jpeg)
+![Component Diagram](images/ComponentDiagram-Page1.jpeg)
 
 ### 2.2 Deployment Diagram
 The app deployment will be simply for Android 4.4+ systems, we do not need deployment diagram to deploy or interact in other systems.
