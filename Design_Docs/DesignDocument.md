@@ -30,7 +30,7 @@ The app deployment will be simply for Android 4.4+ systems, we do not need deplo
 ## 3 Low-Level Design
 
 ### 3.1 Class Diagram
-![Class Diagram](/images/class_diagram.png)
+![Class Diagram](images/class_diagram.png)
 
 ### 3.2 Other Diagrams
 
@@ -38,14 +38,14 @@ The app deployment will be simply for Android 4.4+ systems, we do not need deplo
 The user interface will be a touch-enabled GUI interface. It will be a drawer navigation (“Main Menu”) with each main menu (Create New Player, LogIn) as a group of activities. When New Player is selected, a interface of new player will be prompted. Upon LogIn, a drawer navigation with New Scramble, In-progress Scramble, User Statistics will be shown for user selection. During interacting with EWS, an progress bar can be shown during infomation retrieval from EWS.
 
 1. Home Page  
-![Home Page](/images/HomePage.jpeg)
+![Home Page](images/HomePage.jpeg)
 2. Register  
-![Register](/images/RegisterPage.jpeg)
+![Register](images/RegisterPage.jpeg)
 3. Login  
-![LogIn](/images/LogIn.jpeg)
+![LogIn](images/LogIn.jpeg)
 4. Main Menu  
-![Main Menu](/images/MainMenu.jpeg)
+![Main Menu](images/MainMenu.jpeg)
 5. Create Scramble  
-![Create Scramble](/images/CreateScramble.jpeg)
+![Create Scramble](images/CreateScramble.jpeg)
 6. Find Word Scrambles  
-![Find Scrambles](/images/FindScrambles.jpeg)
+![Find Scrambles](images/FindScrambles.jpeg)
