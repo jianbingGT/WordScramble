@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdb07a48-c571-4b7c-b124-6ea1a0ba19ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Individual/ccarmack3/design_information.md" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Individual/ccarmack3/design_information.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Individual/csun93/design-information.md" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Individual/csun93/design-information.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Individual/jzhang964/design-information.md" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Individual/jzhang964/design-information.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Individual/xqin44/XiaoQin" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Individual/xqin44/XiaoQin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Team/design-discussion.md" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Team/design-discussion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/DesignDocument.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/DesignDocument.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/ExtraRequirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/ExtraRequirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/ProjectPlan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/ProjectPlan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/UseCaseModel.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/UseCaseModel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/UserManual.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/UserManual.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/ExternalWebService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/ExternalWebService.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/animated_vector_drawable_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/animated_vector_drawable_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/appcompat_v7_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/appcompat_v7_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/constraint_layout_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/constraint_layout_1_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/constraint_layout_solver_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/constraint_layout_solver_1_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/espresso_core_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/espresso_core_2_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/espresso_idling_resource_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_integration_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_integration_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javawriter_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javawriter_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javax_annotation_api_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javax_annotation_api_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/jsr305_2_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/jsr305_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/rules_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/rules_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/runner_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/runner_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_annotations_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_annotations_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_compat_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_compat_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_core_ui_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_core_ui_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_core_utils_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_core_utils_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_fragment_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_fragment_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_media_compat_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_media_compat_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_v4_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_v4_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_vector_drawable_26_0_0_alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/libraries/support_vector_drawable_26_0_0_alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/SDPScramble.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/SDPScramble.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/app/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/app/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/idling/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/idling/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/edu/gatech/seclass/sdpscramble/test/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/androidTest/debug/edu/gatech/seclass/sdpscramble/test/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/constraint/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/constraint/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/mediacompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/edu/gatech/seclass/sdpscramble/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/generated/source/r/debug/edu/gatech/seclass/sdpscramble/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/dependencies/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/dependencies/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/manifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_main__menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_main__menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_start_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/merged/debug/layout/activity_start_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/res/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/restart-dex/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/restart-dex/debug/build-info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/symbols/androidTest/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/symbols/androidTest/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/androidTest/java/edu/gatech/seclass/sdpscramble/Database_HandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/androidTest/java/edu/gatech/seclass/sdpscramble/Database_HandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/androidTest/java/edu/gatech/seclass/sdpscramble/Main_AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/androidTest/java/edu/gatech/seclass/sdpscramble/Main_AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Database_Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Database_Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/EWS_Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/EWS_Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Solve_Scramble.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Solve_Scramble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Start_Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Start_Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/WordScramble.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/WordScramble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/onPlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/onPlaying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_main__menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_main__menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_on_playing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_on_playing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_solve__scramble.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_solve__scramble.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_start_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_start_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/menu/navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/menu/navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/EWS_FacadeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/EWS_FacadeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/Main_AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/Main_AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/PuzzleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/PuzzleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/WordScrambleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/app/src/test/java/edu/gatech/seclass/sdpscramble/WordScrambleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/build/intermediates/dex-cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDPScramble/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SDPScramble/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeamInfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TeamInfo.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-645948545">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+          <entry key="png" value="2" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="12" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Solve_Scramble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1080" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Start_Screen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/back_arrow.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/title.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_dashboard_black_24dp.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_home_black_24dp.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_notifications_black_24dp.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_login.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_main__menu.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/WordScramble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="21" />
+    <option name="width" value="939" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="gatech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="gatech" type="462c0819:PsiDirectoryNode" />
+              <item name="seclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="gatech" type="462c0819:PsiDirectoryNode" />
+              <item name="seclass" type="462c0819:PsiDirectoryNode" />
+              <item name="sdpscramble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SDPScramble" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../6250_BD4H/homework3/code" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../6250_BD4H/homework4/stu_code" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb07a48-c571-4b7c-b124-6ea1a0ba19ec" name="Default Changelist" comment="" />
+      <created>1545022294138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545022294138</updated>
+      <workItem from="1545022295818" duration="447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="447000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36761135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Preview" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Database_Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/EWS_Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Main_Menu.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/onPlaying.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Player.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Puzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Solve_Scramble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/WordScramble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/java/edu/gatech/seclass/sdpscramble/Start_Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/back_arrow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/title.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_dashboard_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_home_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/drawable/ic_notifications_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDPScramble/app/src/main/res/layout/activity_main__menu.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
